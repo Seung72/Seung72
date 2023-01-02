@@ -27,7 +27,7 @@ I'm studying at the Department of Computer Engineering at [Dongyang Mirae Univ](
 <img src="https://img.shields.io/badge/PhotoShop-darkslategray?style=flat-square&logo=Adobe Photoshop&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Vegas Pro-black?style=flat-square&logo=V&logoColor=FFFFFF"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung72&count_private=true&show_icons=true&theme=transparent&border_radius=3&line_height=33)](https://github.com/Seung72/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung72&theme=transparent&card_width=300&border_radius=3)
+[![Anurag's GitHub stats](https://github-readme-stats-seung72.vercel.app/api?username=Seung72&count_private=true&show_icons=true&theme=transparent&border_radius=3&line_height=33)](https://github.com/Seung72/github-readme-stats) ![Top Langs](https://github-readme-stats-seung72.vercel.app/api/top-langs/?username=Seung72&theme=transparent&card_width=300&border_radius=3)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=%20&fontSize=30)
 
 </div>
