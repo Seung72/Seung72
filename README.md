@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Nice%20to%20meet%20you!%20👋&fontSize=30&animation=twinkling&fontColor=ffffff&textBg=true)
 
-I'm working as a stock app developer intern!<br>Currently studying kotlin and lua script.<br>The first application developed is ["투둑투둑"](https://play.google.com/store/apps/details?id=com.todook.main) (Currently only supports Korean).
+<h3>Financial application developer<br></h3>
+
+[2023.06 ~ 2023.11] 하나증권 원큐프로 화면개발 참여
 
 <p>
 <img src="https://img.shields.io/badge/Android Stacks 🚀-white?style=for-the-badge&logo=Android&logoColor=3DDC84" width="400" height="60"/>
